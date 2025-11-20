@@ -8,7 +8,7 @@ ECO-MINDS is a project about plant cognition and what happens when we take it se
 
 This project is centered around biosemiotics--the idea that organisms use signs, and that these effect fundamental biological functions that are not describable solely through mechanistic views--, while also following current advances in the philosophy of plant cognition.
 
-The supervisor of the project is Paco Calvo, of [_Planta Sapiens_](https://www.um.es/mintlab/index.php/publications/planta-sapiens/) fame, and head of [MINTLab](https://www.um.es/mintlab/) at the [University of Murcia](https://www.um.es/web/universidaddemurcia/)--and the foremost figure in plant cognition research.
+The supervisor of the project is [Paco Calvo](https://scholar.google.com/citations?user=hY2MRtIAAAAJ&hl=en), of [_Planta Sapiens_](https://www.um.es/mintlab/index.php/publications/planta-sapiens/) fame, and head of [MINTLab](https://www.um.es/mintlab/) at the [University of Murcia](https://www.um.es/web/universidaddemurcia/)--and the foremost figure in plant cognition research.
 
 And there is probably no better place in the world to work with plant cognition than at the MINTLab!
 

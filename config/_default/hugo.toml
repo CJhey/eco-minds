@@ -3,7 +3,9 @@
 # https://blowfish.page/docs/getting-started/
 
 # theme = "blowfish" # UNCOMMENT THIS LINE
-baseURL = "CJhey.github.io/eco-minds/"
+baseURL = "https://CJhey.github.io/eco-minds/"
+relativeURLs = true
+canonifyURLs = true
 defaultContentLanguage = "en"
 
 # pluralizeListTitles = "true" # hugo function useful for non-english languages, find out more in  https://gohugo.io/getting-started/configuration/#pluralizelisttitles

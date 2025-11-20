@@ -2,12 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on ECO-MINDS</title>
-    <link>https://CJhey.github.io/eco-minds/tags/</link>
+    <link>https://cjhey.github.io/eco-minds/tags/</link>
     <description>Recent content in Tags on ECO-MINDS</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>Project supported by the Czech Ministry of Education, Youth, and Sports, Palacký University and the University of Murcia, and co-financed by the European Union</copyright>
-    <atom:link href="https://CJhey.github.io/eco-minds/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://cjhey.github.io/eco-minds/tags/index.xml" rel="self" type="application/rss+xml" />
     
   </channel>
 </rss>

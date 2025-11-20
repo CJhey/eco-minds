@@ -4,8 +4,8 @@
 
 # theme = "blowfish" # UNCOMMENT THIS LINE
 baseURL = "https://cjhey.github.io/eco-minds/"
-relativeURLs = true
-canonifyURLs = true
+# relativeURLs = true
+# canonifyURLs = true
 defaultContentLanguage = "en"
 
 # pluralizeListTitles = "true" # hugo function useful for non-english languages, find out more in  https://gohugo.io/getting-started/configuration/#pluralizelisttitles

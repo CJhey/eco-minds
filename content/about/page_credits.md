@@ -17,5 +17,6 @@ Photos are credited where necessary, but the featured content image is a photo b
 Though not entirely relevant, images I myself shot were taken either on a Canon 5DII, a Lumix GX80, a Fuji X-Half if digital, or a Fuji GW690 or a Contax T2 if film.
 
 ## Other Images
-Images in this website are acquired from various sources, and I will credit them accordinglyly. The [background](https://edermunizz.itch.io/free-pixel-art-forest) has been drawn by [edermunizz](https://edermunizz.itch.io/).
+Images in this website are acquired from various sources, and I will credit them accordinglyly. The [background](https://edermunizz.itch.io/free-pixel-art-forest) has been drawn by [edermunizz](https://edermunizz.itch.io/). The current logo was done on [Canva](https://www,canva.com) with simple geometric figures.
+
 Though I'd rather avoid using AI art, I will also list it accordingly in case I do use it.

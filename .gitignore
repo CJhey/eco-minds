@@ -1,0 +1,4 @@
+echo "public/" >> .gitignore
+echo ".hugo_build.lock" >> .gitignore
+echo "resources/_gen/" >> .gitignore
+git add .gitignore

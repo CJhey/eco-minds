@@ -3,7 +3,7 @@
 # https://blowfish.page/docs/getting-started/
 
 # theme = "blowfish" # UNCOMMENT THIS LINE
-baseURL = "https://CJhey.github.io/eco-minds/"
+baseURL = "https://cjhey.github.io/eco-minds/"
 relativeURLs = true
 canonifyURLs = true
 defaultContentLanguage = "en"

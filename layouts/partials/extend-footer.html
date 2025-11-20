@@ -1,0 +1,3 @@
+{{ $t := resources.Get "img/msmt_logo.png" }}
+{{ $r := $t.Resize "200x" }}
+<img src="{{ $r.RelPermalink }}">

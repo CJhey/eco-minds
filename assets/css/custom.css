@@ -1,0 +1,10 @@
+
+/* Set light-mode background to azure */
+html:not(.dark) body {
+    background-color: #dce3ee !important;
+}
+
+/* Also override the Tailwind class used by Blowfish */
+html:not(.dark) .bg-neutral {
+    background-color: #dce3ee !important;
+}

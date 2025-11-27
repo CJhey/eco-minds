@@ -1,5 +1,5 @@
 
-<div style="display: flex; gap: 1rem; align-items: center;">
+<div class="footer-logos">
   {{ $t1 := resources.Get "img/msmt_logo.png" }}
   {{ $r1 := $t1.Resize "200x" }}
   <img src="{{ $r1.RelPermalink }}" alt="Logo 1">
@@ -8,3 +8,4 @@
   {{ $r2 := $t2.Resize "300x" }}
   <img src="{{ $r2.RelPermalink }}" alt="Logo 2">
 </div>
+

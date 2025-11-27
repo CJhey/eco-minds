@@ -8,3 +8,18 @@ html:not(.dark) body {
 html:not(.dark) .bg-neutral {
     background-color: #dce3ee !important;
 }
+
+.footer-logos {
+  display: flex;
+  gap: 1rem;
+  align-items: center;
+
+  /* stops the footer from widening the page */
+  max-width: 100%;
+  overflow-x: hidden;
+}
+
+.footer-logos img {
+  max-width: 100%;
+  height: auto;
+}

@@ -2,3 +2,6 @@ echo "public/" >> .gitignore
 echo ".hugo_build.lock" >> .gitignore
 echo "resources/_gen/" >> .gitignore
 git add .gitignore
+node_modules/
+resources/
+.hugo_build.lock

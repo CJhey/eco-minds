@@ -1,13 +1,1 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Tags on ECO-MINDS</title>
-    <link>https://eco-minds.claudiorh.com/tags/</link>
-    <description>Recent content in Tags on ECO-MINDS</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en</language>
-    <copyright>ECO-MINDS is supported as an individual research mobility within the project No. CZ.02.01.01/00/22_010/0013054, entitled MSCA Fellowships at Palacký University Olomouc IV., as part of the funding call No. 02_22_010 MSCA Fellowships CZ provided by the Ministry of Education, Youth and Sports of the Czech Republic and co-financed by the European Union.</copyright>
-    <atom:link href="https://eco-minds.claudiorh.com/tags/index.xml" rel="self" type="application/rss+xml" />
-    
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Tags on ECO-MINDS</title><link>https://eco-minds.claudiorh.com/tags/</link><description>Recent content in Tags on ECO-MINDS</description><generator>Hugo -- gohugo.io</generator><language>en</language><copyright>ECO-MINDS is supported as an individual research mobility within the project No. CZ.02.01.01/00/22_010/0013054, entitled MSCA Fellowships at Palacký University Olomouc IV., as part of the funding call No. 02_22_010 MSCA Fellowships CZ provided by the Ministry of Education, Youth and Sports of the Czech Republic and co-financed by the European Union.</copyright><atom:link href="https://eco-minds.claudiorh.com/tags/index.xml" rel="self" type="application/rss+xml"/></channel></rss>
